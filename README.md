@@ -2,7 +2,8 @@
 
 Georgios Karantaidis and Constantine Kotropoulos
 
-PCI 2018,
+PCI 2018
+
 © 2018 Association for Computing Machinery
 
 
