@@ -11,9 +11,7 @@ A code for ENF extraction is provided including:
   STFT, Capon, Fast Capon, Fast Iterative Adaptive Approach, Daniell, Blackman-Tukey, Welch, ESPRIT and MUSIC.
   
   
-We hope you find our code useful,
-
-Please cite our work: 
+We hope you find our code useful and we'd appreciate it if you cite our work: 
 
 [1] Georgios Karantaidis and Constantine Kotropoulos. 2018. **"ASSESSING SPECTRAL ESTIMATION METHODS FOR ELECTRIC NETWORK FREQUENCY EXTRACTION"**,In 22nd Pan-Hellenic Conference on Informatics (PCI ’18), November 29-December 1, 2018, Athens, Greece. ACM, New York, NY, USA, 6 pages. https://doi.org/10.1145/3291533.3291538
 
