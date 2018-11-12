@@ -3,9 +3,9 @@ Assessing spectral estimation methods for Electric Network Frequency (ENF) Extra
 
 A code for ENF extraction is provided including:
 
-1) Signal filtering with a very sharp bandpass filter.
+1) Signal filtering with a very sharp bandpass filter (main.m).
 
-2) ENF extraction procedure using overplapping windows and a Quadratic Interpolation. Very good results achieved due to proper parameter tuning both in the pre-processing step and in the main procedure.
+2) ENF extraction procedure using overplapping windows and a Quadratic Interpolation (main.m). Very good results achieved due to proper parameter tuning both in the pre-processing step and in the main procedure.
 
 3) Various estimation techniques are employed:
   STFT, Capon, Fast Capon, Fast Iterative Adaptive Approach, Daniell, Blackman-Tukey, Welch, ESPRIT and MUSIC.
