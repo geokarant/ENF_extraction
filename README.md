@@ -1,6 +1,8 @@
 # Assessing spectral estimation methods for Electric Network Frequency (ENF) Extraction.
 
-Georgios Karantaidis and Constantine Kotropoulos                                                                                        PCI 2018                                                                                                                                  © 2018 Association for Computing Machinery
+Georgios Karantaidis and Constantine Kotropoulos  
+PCI 2018  
+© 2018 Association for Computing Machinery
 
 
 # Notes
