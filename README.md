@@ -1,5 +1,4 @@
-# ENF_extraction
-Assessing spectral estimation methods for Electric Network Frequency (ENF) Extraction.
+# Assessing spectral estimation methods for Electric Network Frequency (ENF) Extraction.
 
 Georgios Karantaidis, Constantine Kotropoulos
 PCI 2018
