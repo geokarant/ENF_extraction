@@ -14,7 +14,7 @@ Code used in [1] for ENF extraction is provided including:
 2) ENF extraction procedure using overplapping windows and a Quadratic Interpolation (main.m). Very good results achieved due to proper parameter tuning both in the pre-processing step and in the main procedure.
 
 3) Various estimation techniques are employed:
-  STFT, Capon, Fast Capon, Fast Iterative Adaptive Approach, Daniell, Blackman-Tukey, Welch, ESPRIT and MUSIC.
+  STFT, Capon, Fast Capon, Fast Iterative Adaptive Approach (treat F-IAA as individual main file), Daniell, Blackman-Tukey, Welch, ESPRIT and MUSIC.
   
   # Important
   
