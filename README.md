@@ -24,7 +24,7 @@ If you use this software you should cite the following in any resulting publicat
 
 The dataset was created by Spectral Analysis Lab, Dept. of ECE, University of Florida and ALL COPYRIGHTS remain with them : http://www.sal.ufl.edu/download.html
 
-@inproceedings{Briola:2018,
+@inproceedings{Karantaidis:2018,
  author = {Karantaidis, Georgios and Kotropoulos, Constantine},
  title = {ASSESSING SPECTRAL ESTIMATION METHODS FOR
 ELECTRIC NETWORK FREQUENCY EXTRACTION},
