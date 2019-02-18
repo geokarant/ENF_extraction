@@ -24,17 +24,17 @@ If you use this software you should cite the following in any resulting publicat
 
 The dataset was created by Spectral Analysis Lab, Dept. of ECE, University of Florida and ALL COPYRIGHTS remain with them : http://www.sal.ufl.edu/download.html
 
-@inproceedings{Karantaidis:2018,
- author = {Karantaidis, Georgios and Kotropoulos, Constantine},
- title = {ASSESSING SPECTRAL ESTIMATION METHODS FOR
-ELECTRIC NETWORK FREQUENCY EXTRACTION},
- booktitle = {Proceedings of the 22nd Pan-Hellenic Conference on Informatics (PCI 2018)},
- year = {2018},
- location = {Athens, Greece},
- pages = {202--207},
- numpages = {6},
- doi = {10.1145/3291533.3291538},
- publisher = {ACM},
- address = {New York, NY, USA},
+@inproceedings{Karantaidis:2018,  
+ author = {Karantaidis, Georgios and Kotropoulos, Constantine},  
+ title = {ASSESSING SPECTRAL ESTIMATION METHODS FOR  
+ELECTRIC NETWORK FREQUENCY EXTRACTION},  
+ booktitle = {Proceedings of the 22nd Pan-Hellenic Conference on Informatics (PCI 2018)},  
+ year = {2018},  
+ location = {Athens, Greece},  
+ pages = {202--207},  
+ numpages = {6},  
+ doi = {10.1145/3291533.3291538},  
+ publisher = {ACM},  
+ address = {New York, NY, USA},  
  keywords = {Electric Network Frequency, Spectral Estimation Methods, Matching Procedures, Multimedia Authentication}
 } 
