@@ -23,3 +23,18 @@ If you use this software you should cite the following in any resulting publicat
 [1] Georgios Karantaidis and Constantine Kotropoulos. 2018. **"ASSESSING SPECTRAL ESTIMATION METHODS FOR ELECTRIC NETWORK FREQUENCY EXTRACTION"**,In 22nd Pan-Hellenic Conference on Informatics (PCI ’18), November 29-December 1, 2018, Athens, Greece. ACM, New York, NY, USA, 6 pages. https://doi.org/10.1145/3291533.3291538
 
 The dataset was created by Spectral Analysis Lab, Dept. of ECE, University of Florida and ALL COPYRIGHTS remain with them : http://www.sal.ufl.edu/download.html
+
+@inproceedings{Briola:2018,
+ author = {Karantaidis, Georgios and Kotropoulos, Constantine},
+ title = {ASSESSING SPECTRAL ESTIMATION METHODS FOR
+ELECTRIC NETWORK FREQUENCY EXTRACTION},
+ booktitle = {Proceedings of the 22nd Pan-Hellenic Conference on Informatics (PCI 2018)},
+ year = {2018},
+ location = {Athens, Greece},
+ pages = {202--207},
+ numpages = {6},
+ doi = {10.1145/3291533.3291538},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {Electric Network Frequency, Spectral Estimation Methods, Matching Procedures, Multimedia Authentication}
+} 
